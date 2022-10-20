@@ -23,7 +23,9 @@ or anything outside your current domain.
 
 ## Let's hack!
 
-We're a JS shop, so answers in JS get extra 🍪
+Please answer in the language that you're
+applying for. We're a JS shop, so answers in JS
+get extra 🍪
 
 - Find the longest word in a string.
   - Given `The quick brown fox jumped over the lazy dog` is the input to your function, it should return `jumped`.
