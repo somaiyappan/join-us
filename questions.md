@@ -23,7 +23,7 @@ or anything outside your current domain.
 
 ## Let's hack!
 
-We're a JS shop, so answers in JS get 🍪
+We're a JS shop, so answers in JS get extra 🍪
 
 - Find the longest word in a string.
   - Given `The quick brown fox jumped over the lazy dog` is the input to your function, it should return `jumped`.
@@ -42,3 +42,12 @@ We're a JS shop, so answers in JS get 🍪
   - If `'Absolute victory'` and `3` are the inputs to
   your function, it should return `Abs...`
 
+## Notes
+
+- We look for style and patterns when reviewing submissions.
+- Please __do not__ lift answers from somewhere and
+send it to us verbatim.
+- Do show off your git kung-fu. Multiple commits? Branch naming?
+- If you can't answer everything, thats ok too! Go ahead and raise that PR anyway.
+
+> __வாழ்த்துகள்!__ 🙏
